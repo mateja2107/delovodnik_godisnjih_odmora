@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.user-container {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.user-container span {
+  font-size: 18px;
+}
+
+.user-container div {
+  float: right;
+}
+
+table {
+  max-width: 1400px;
+}
+
+.wrapper {
+  max-width: 1400px;
+  margin: auto;
+  text-align: center;
+}
+
+.select_filter {
+  outline: none;
+  padding: 2px 3px;
+  font-size: 16px;
+}
+
+select#selectedYear:focus {
+  outline: none !important;
+  border: 3px solid rgb(0, 132, 255) !important;
+}
