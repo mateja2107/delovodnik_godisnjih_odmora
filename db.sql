@@ -40,4 +40,4 @@ CREATE TABLE old_rescripts (
   author VARCHAR(50)
 );
 
-INSERT INTO "users" SET username = "mateja", password = "$2y$10$UbPKjvoptq8wc779xvmkOeexi8..Fvb.mIEcIQpNzklcCi9NQRHYu", e_code = 1010, status = "admin", token = "Trs7V3UHSp9Ae1H4r9EOSTBfjxyxjUoAp1nII5OSYGz7aWpJkwMmCKnlY75fqNTevGqwkoseM4M3SQ3Dhz0phm1VoOxV62Iocwju"; 
+INSERT INTO users SET username = "mateja", password = "$2y$10$UbPKjvoptq8wc779xvmkOeexi8..Fvb.mIEcIQpNzklcCi9NQRHYu", e_code = 1010, status = "admin", token = "Trs7V3UHSp9Ae1H4r9EOSTBfjxyxjUoAp1nII5OSYGz7aWpJkwMmCKnlY75fqNTevGqwkoseM4M3SQ3Dhz0phm1VoOxV62Iocwju"; 
