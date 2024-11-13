@@ -10,7 +10,6 @@ $user = loadPage();
 
   <div class="jumbotron text-center">
     <h1>Delovodnik Godisnjeg Odmora</h1>
-    <p><i>Bečejpromet DOO</i>, Bečej</p>
     <button onclick="clearErrorBox()" type="button" data-toggle="modal" data-target="#exampleModal" class="btn btn-primary">Unesi Novo Resenje</button>
   </div>
 
